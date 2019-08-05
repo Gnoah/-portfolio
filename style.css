@@ -1681,6 +1681,7 @@ mark.rotate {
     padding: 50px 20px;
     position: relative;
     overflow: hidden;
+    margin-top: 10px;
 }
 
 .process-end {

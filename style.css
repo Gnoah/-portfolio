@@ -1563,7 +1563,10 @@ MODULES
     font-size: 12px;
     line-height: 20px;
 }
-
+#miakatra{
+    font-weight: bolder;
+    color: white !important;
+}
 .progress-bar span {
     color: #030303 !important;
     display: block;
